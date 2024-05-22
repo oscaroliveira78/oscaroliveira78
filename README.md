@@ -1,7 +1,9 @@
 Olá, sou Oscar Oliveira
 
 - 🔭 Hoje Trabalho com desenvolvimento de sistemas utilizando SpringBoot.
-- 📫 contacte-me no email: oscarroliveira@gmail.com  
+- 📫 e-mail: oscarroliveira@gmail.com
+- 💬 Pergunte-me sobre Arquitetura de Software (Estilos, Padrões e Técnicas) , SpringBoot, Java ...
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/oscaroliveira78">
